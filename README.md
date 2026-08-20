@@ -101,9 +101,11 @@ Projeto de estudo para navegação em uma galeria visual de criaturas e GIFs, co
 | :---------------: |
 | `portfolio` |
 | `joaovitorsw` |
+| `gif` |
+| `assets` |
+| `visual-gallery` |
 | `pokedex` |
 | `pokemon` |
-| `api` |
 
 </div>
 
