@@ -14,7 +14,7 @@
   <img alt="Project Status" src="https://img.shields.io/badge/status-concluido-green?style=for-the-badge&label=Status">
 </p>
 
-<h1 align="center">Poke Gifs</h1>
+<h1 align="center">Poke GIFs</h1>
 
 <p align="center">
  <a href="#eye_speech_bubble-visualizar">Visualizar</a> •
@@ -33,8 +33,9 @@
 
 <div align="center">
 
-Preview online não informado no repositório.
+Preview visual do projeto:
 
+<kbd><img src=".github/assets/project-cover.png" alt="Preview do projeto"/></kbd>
 
 </div>
   
@@ -44,7 +45,7 @@ Preview online não informado no repositório.
 
 <div align="center">
 
-Projeto inspirado no universo Pokémon para praticar consumo de dados, manipulação de listas, imagens e experiência de navegação.
+Projeto de estudo para navegação em uma galeria visual de criaturas e GIFs, com foco em listagem, filtros e experiência de descoberta.
 
 ---
 
@@ -56,7 +57,9 @@ Projeto inspirado no universo Pokémon para praticar consumo de dados, manipula�
 
 | :globe_with_meridians: Stack |
 | :--------------------------: |
-| Tecnologias a definir conforme evolução do projeto |
+| GIF |
+| Assets visuais |
+| Organização de arquivos |
 
 </div>
 
@@ -68,8 +71,10 @@ Projeto inspirado no universo Pokémon para praticar consumo de dados, manipula�
 
 |  :page_facing_up:  |
 | :----------------: |
-| Organização de projeto |
-| Versionamento com Git |
+| Catálogo visual |
+| Organização de assets |
+| Nomenclatura de arquivos |
+| Conteúdo estático |
 
 </div>
 
@@ -81,8 +86,8 @@ Projeto inspirado no universo Pokémon para praticar consumo de dados, manipula�
 
 |                     :page_facing_up:                      |
 | :-------------------------------------------------------: |
-| Listar e visualizar informações de Pokémon |
-| Consumir dados de API externa |
+| Apresentar galeria visual com cards e imagens animadas |
+| Praticar organização de assets e navegação por conteúdo visual |
 
 </div>
 
